@@ -1,0 +1,3 @@
+to use gunzip to decomopress, input a file with the extension ".gz"
+then gunzip "output.txt.gz" will create output.txt
+or gunzip -c "output.txt.gz" will write the decompressed text to the terminal
